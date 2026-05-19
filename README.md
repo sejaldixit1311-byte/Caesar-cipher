@@ -10,4 +10,6 @@ A command-line implementation of the classical Caesar Cipher encryption algorith
 - Decode
 - Loop Mode
 - Safe Input
+## How it works ##
+User Input -> Check Direction -> Apply Shift -> Wrap (mod 26) -> Output
 
