@@ -26,5 +26,9 @@ User Input -> Check Direction -> Apply Shift -> Wrap (mod 26) -> Output
     -hello world
     -Type the shift number:
     -5
-    -Here is the encoded result: mjqqt btwqi       
+    -Here is the encoded result: mjqqt btwqi 
+
+# project structure 
+ - ## caesar.py ##  Main program file containing the cipher logic and user interaction loop
+    
 
