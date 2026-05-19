@@ -29,6 +29,6 @@ User Input -> Check Direction -> Apply Shift -> Wrap (mod 26) -> Output
     -Here is the encoded result: mjqqt btwqi 
 
 # project structure 
- - ## caesar.py ##  Main program file containing the cipher logic and user interaction loop
-    
+ - caesar.py   Main program file containing the cipher logic and user interaction loop
+ - README.md   project documentation and usage guide  
 
