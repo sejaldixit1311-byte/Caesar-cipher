@@ -19,12 +19,12 @@ User Input -> Check Direction -> Apply Shift -> Wrap (mod 26) -> Output
 2. run the program
    - python caesar.py
 3. follow the prompts
-  - Example session
-    type 'encode' to encrypt, type 'decode' to decrypt:
-    encode
-    Type your message:
-    hello world
-    Type the shift number:
-    5
-    Here is the encoded result: mjqqt btwqi       
+  # Example session
+    -type 'encode' to encrypt, type 'decode' to decrypt:
+    -encode
+    -Type your message:
+    -hello world
+    -Type the shift number:
+    -5
+    -Here is the encoded result: mjqqt btwqi       
 
